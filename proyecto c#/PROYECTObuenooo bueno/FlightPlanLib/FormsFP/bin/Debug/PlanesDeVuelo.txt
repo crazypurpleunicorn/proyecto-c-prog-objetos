@@ -1,0 +1,3 @@
+Zaten JDG 50 50 50 400 400
+Aurora Luxor 50 400 50 50 400
+Kazark UTMCorp 100 225 50 225 400
